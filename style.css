@@ -5,7 +5,10 @@
 .img-holder {
 	text-align: center;
 }
-
+.main-img {
+	height 80%;
+	width: 80%;
+}
 .titles-holder {
 	text-align: center;
 }
