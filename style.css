@@ -17,9 +17,20 @@
 }
 
 .main-img {
-	width: 80vw;
+	width: 60vw;
 }
 
 .text-holder p {
 	
+}
+
+@media (max-width: 768px) {
+	.main-img {
+		width: 80vw;
+	}
+
+	.text-holder {
+		width: 90%;
+		margin: 5% 5%;
+	}
 }
