@@ -17,7 +17,11 @@
 }
 
 .main-img {
-	width: 60vw;
+	width: 40vw;
+}
+
+.titles-holder h3 {
+	line-height: 5px;
 }
 
 .text-holder p {
