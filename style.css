@@ -2,6 +2,10 @@
 	font-family: "Oswald", sans-serif;
 }
 
-.main-img {
+.img-holder {
+	text-align: center;
+}
+
+.titles-holder {
 	text-align: center;
 }
