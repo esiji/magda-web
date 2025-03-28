@@ -5,10 +5,17 @@
 .img-holder {
 	text-align: center;
 }
-.main-img {
-	height 80%;
-	width: 80%;
-}
+
 .titles-holder {
 	text-align: center;
+}
+
+.text-holder {
+	text-align: justify;
+	width: 80%;
+	margin: 5% 10%;
+}
+
+.text-holder p {
+	
 }
