@@ -38,4 +38,7 @@
 		width: 90%;
 		margin: 5% 5%;
 	}
+	.titles-holder h3 {
+		line-height: 20px;
+	}
 }
